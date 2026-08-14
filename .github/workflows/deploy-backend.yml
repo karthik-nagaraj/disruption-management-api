@@ -10,7 +10,7 @@ on:
 
 env:
   JAVA_VERSION: '21'
-  AZURE_WEBAPP_NAME: ${{ vars.AZURE_WEBAPP_BACKEND_NAME }}
+  AZURE_WEBAPP_NAME: disruptionmgmt
 
 jobs:
   build:
